@@ -1,4 +1,4 @@
-package me.eliknowles;
+package me.eliknowles.neuronlib;
 
 import java.util.Random;
 

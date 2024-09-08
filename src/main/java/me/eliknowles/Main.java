@@ -1,5 +1,7 @@
 package me.eliknowles;
 
+import me.eliknowles.neuronlib.NeuralNetwork;
+
 public class Main {
     public static void main(String[] args) {
         int inputSize = 3;
